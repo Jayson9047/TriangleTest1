@@ -8,6 +8,9 @@ namespace TriangleTest1
 {
     class Triangle
     {
-
+       public float CalculateHypotenuse(float length1, float length2)
+        {
+            return 0;
+        }
     }
 }
