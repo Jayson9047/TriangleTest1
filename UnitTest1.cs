@@ -11,7 +11,7 @@ namespace TriangleTest1
         {
             Triangle obj = new Triangle();
             float result = obj.CalculateHypotenuse(3, 4);
-            Assert.AreEqual(5, result);
+            Assert.AreEqual(5, result); 
         }
     }
 }
