@@ -8,5 +8,6 @@ namespace TriangleTest1
 {
     class Triangle
     {
+
     }
 }
